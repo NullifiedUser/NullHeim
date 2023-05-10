@@ -1,7 +1,6 @@
 # NullHeim
 ## Nullheim contains handpicked mods that add that extra QOL also mods have also been customized to provide extra balance.
 As mods get update for mistland more will get added over time
-Thunderstore modpack [page](https://valheim.thunderstore.io/package/NullifiedUser/NullHeim_Modpack)
 
 Info on the keybinds can be found [here](https://github.com/NullifiedUser/NullHeim/wiki) 
 
@@ -12,6 +11,8 @@ All mod in this pack in order
 [HookGenPatcher](https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher)
 
 [Official BepInEx ConfigurationManager](https://valheim.thunderstore.io/package/Azumatt/Official_BepInEx_ConfigurationManager)
+
+[ConfigWatcher](https://valheim.thunderstore.io/package/Smoothbrain/ConfigWatcher/1.0.1)
 
 [PerfectPlacement](https://valheim.thunderstore.io/package/Azumatt/PerfectPlacement)
 
@@ -49,10 +50,28 @@ All mod in this pack in order
 
 [Pinnacle](https://valheim.thunderstore.io/package/ComfyMods/Pinnacle)
 
+[ToggleMovementMod](https://valheim.thunderstore.io/package/GetOffMyLawn/ToggleMovementMod)
+
 [ItemDrawers](https://valheim.thunderstore.io/package/makail/ItemDrawers)
 
 [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot)
 
 [CreatureLevelAndLootControl](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl)
 
-[ToggleMovementMod](https://valheim.thunderstore.io/package/GetOffMyLawn/ToggleMovementMod)
+[BetterLanterns](https://valheim.thunderstore.io/package/OdinPlus/BetterLanterns/1.0.3)
+
+[PressurePlate](https://valheim.thunderstore.io/package/MSchmoecker/PressurePlate)
+
+[BetterLadders](https://valheim.thunderstore.io/package/Amar1729/BetterLadders)
+
+[OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect)
+
+# Changelog 1.0.5
+
+Added OdinArchitect (Woops thought i added this one already)
+
+Added Better Ladders
+
+Added Better Lanterns
+
+Added ConfigWatcher (makes editing configs easier)
