@@ -1,0 +1,38 @@
+{
+  "name": "NullHeim",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/NullifiedUser/NullHeim",
+  "description": "Nullheim caintains handpicked and customed mods that mostly are QOL.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2105",
+    "ValheimModding-Jotunn-2.11.6",
+    "ValheimModding-HookGenPatcher-0.0.4",
+    "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
+    "Azumatt-PerfectPlacement-1.0.3",
+    "Azumatt-BiomeObserver-1.0.2",
+    "Azumatt-AzuWorkbenchTweaks-1.0.1",
+    "Azumatt-AzuAreaRepair-1.0.1",
+    "Azumatt-WardIsLove-3.1.2",
+    "Azumatt-AzuCraftyBoxes-1.0.7",
+    "Azumatt-AzuMiscPatches-1.0.4",
+    "Azumatt-AzuAutoStore-1.0.2",
+    "kinghfb-Sleepover-1.1.1",
+    "LVH-IT-UseEquipmentInWater-0.2.3",
+    "Nextek-SpeedyPaths-1.0.7",
+    "MathiasDecrock-PlanBuild-0.13.4",
+    "RoundStone-RoundStoneScrollFirstPerson-1.0.0",
+    "RandyKnapp-EquipmentAndQuickSlots-2.1.5",
+    "RandyKnapp-Auga-1.2.9",
+    "Advize-PlantEverything-1.13.4",
+    "Advize-PlantEasily-1.4.1",
+    "ComfyMods-Pinnacle-1.2.4",
+    "makail-ItemDrawers-0.5.1",
+    "RandyKnapp-EpicLoot-0.9.12",
+    "Smoothbrain-CreatureLevelAndLootControl-4.5.5",
+    "",
+    "",
+    
+    
+    
+  ]
+}
