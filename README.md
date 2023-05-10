@@ -1,5 +1,7 @@
 # NullHeim
 ## Nullheim contains handpicked mods that add that extra QOL also mods have also been customized to provide extra balance.
+As mods get update for mistland more will get added over time
+
 Info on the keybinds can be found [here](https://github.com/NullifiedUser/NullHeim/wiki) 
 
 All mod in this pack in order
