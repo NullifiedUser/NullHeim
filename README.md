@@ -53,3 +53,5 @@ All mod in this pack in order
 [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot)
 
 [CreatureLevelAndLootControl](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl)
+
+[ToggleMovementMod](https://valheim.thunderstore.io/package/GetOffMyLawn/ToggleMovementMod)
