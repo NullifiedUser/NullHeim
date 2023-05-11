@@ -66,8 +66,18 @@ All mod in this pack in order
 
 [OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect)
 
+[BetterArchery](https://valheim.thunderstore.io/package/ishid4/BetterArchery)
+
+# Changelog 1.1.0
+
+Added Better Archery (disabled quiver)
+
+Change CreatureLevelAndLootControl slightly
+
+Update Github for keybinds [Wiki](https://github.com/NullifiedUser/NullHeim/wiki) 
+
 # Changelog 1.0.7
-Fixed issue
+Fixed Issues
 
 # Changelog 1.0.6
 

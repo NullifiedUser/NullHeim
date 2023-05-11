@@ -1,10 +1,10 @@
 {
   "name": "NullHeim_Modpack",
-  "version_number": "1.0.7",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/NullifiedUser/NullHeim",
-  "description": "Nullheim contains handpicked mods that add that extra QOL also mods have also been customized to provide extra balance.",
-  "dependencies": 
-  [
+  "description": "Nullheim contains handpicked mods that add that extra QOL, mods have also been customized to provide extra balance.",
+  "dependencies": [
+    "ishid4-BetterArchery-1.9.0",
     "OdinPlus-OdinArchitect-1.2.7",
     "Amar1729-BetterLadders-0.2.0",
     "MSchmoecker-PressurePlate-0.9.1",
