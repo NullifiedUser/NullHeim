@@ -66,6 +66,9 @@ All mod in this pack in order
 
 [OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect)
 
+# Changelog 1.0.7
+Fixed issue
+
 # Changelog 1.0.6
 
 Fixed Install Order
