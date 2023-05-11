@@ -68,6 +68,10 @@ All mod in this pack in order
 
 [BetterArchery](https://valheim.thunderstore.io/package/ishid4/BetterArchery)
 
+# Changelog 1.1.1
+
+Minor change to configs fixed some settigns i overlooked.
+
 # Changelog 1.1.0
 
 Added Better Archery (disabled quiver)
