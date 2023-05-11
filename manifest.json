@@ -5,10 +5,10 @@
   "description": "Nullheim contains handpicked mods that add that extra QOL also mods have also been customized to provide extra balance.",
   "dependencies": 
   [
-	"OdinPlus-OdinArchitect-1.2.7",
-	"Amar1729-BetterLadders-0.2.0",
-	"MSchmoecker-PressurePlate-0.9.1",
-	"OdinPlus-BetterLanterns-1.0.3",
+    "OdinPlus-OdinArchitect-1.2.7",
+    "Amar1729-BetterLadders-0.2.0",
+    "MSchmoecker-PressurePlate-0.9.1",
+    "OdinPlus-BetterLanterns-1.0.3",
     "Smoothbrain-CreatureLevelAndLootControl-4.5.5",
     "RandyKnapp-EpicLoot-0.9.12",
     "makail-ItemDrawers-0.5.1",
@@ -31,7 +31,7 @@
     "Azumatt-AzuWorkbenchTweaks-1.0.1",
     "Azumatt-BiomeObserver-1.0.2",
     "Azumatt-PerfectPlacement-1.0.3",
-	"Smoothbrain-ConfigWatcher-1.0.1",
+    "Smoothbrain-ConfigWatcher-1.0.1",
     "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
     "ValheimModding-HookGenPatcher-0.0.4",
     "ValheimModding-Jotunn-2.11.6",
