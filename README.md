@@ -68,6 +68,12 @@ All mod in this pack in order
 
 [BetterArchery](https://valheim.thunderstore.io/package/ishid4/BetterArchery)
 
+# Chnagelog 1.1.2
+
+Updated Item Drawers
+
+Updated PlantEverything
+
 # Changelog 1.1.1
 
 Minor change to configs fixed some settigns i overlooked.

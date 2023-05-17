@@ -1,6 +1,6 @@
 {
   "name": "NullHeim_Modpack",
-  "version_number": "1.1.1",
+  "version_number": "1.1.2",
   "website_url": "https://github.com/NullifiedUser/NullHeim",
   "description": "Nullheim contains handpicked mods that add that extra QOL, mods have also been customized to provide extra balance.",
   "dependencies": [
@@ -11,11 +11,11 @@
     "OdinPlus-BetterLanterns-1.0.3",
     "Smoothbrain-CreatureLevelAndLootControl-4.5.5",
     "RandyKnapp-EpicLoot-0.9.12",
-    "makail-ItemDrawers-0.5.1",
+    "makail-ItemDrawers-0.5.2",
     "GetOffMyLawn-ToggleMovementMod-0.1.0",	
     "ComfyMods-Pinnacle-1.2.4",
     "Advize-PlantEasily-1.4.1",
-    "Advize-PlantEverything-1.13.4",
+    "Advize-PlantEverything-1.13.5",
     "RandyKnapp-Auga-1.2.9",
     "RandyKnapp-EquipmentAndQuickSlots-2.1.5",
     "RoundStone-RoundStoneScrollFirstPerson-1.0.0",
