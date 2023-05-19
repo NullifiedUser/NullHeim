@@ -68,6 +68,11 @@ All mod in this pack in order
 
 [BetterArchery](https://valheim.thunderstore.io/package/ishid4/BetterArchery)
 
+#Changelog 1.1.4
+
+Changed Keybind for Config Manager from F1 to F12
+
+
 # Changelog 1.1.3
 
 Removed BiomeObserver
