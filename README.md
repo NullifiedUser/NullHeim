@@ -16,8 +16,6 @@ All mod in this pack in order
 
 [PerfectPlacement](https://valheim.thunderstore.io/package/Azumatt/PerfectPlacement)
 
-[BiomeObserver](https://valheim.thunderstore.io/package/Azumatt/BiomeObserver)
-
 [AzuWorkBenchTweaks](https://valheim.thunderstore.io/package/Azumatt/AzuWorkbenchTweaks)
 
 [AzuAreaRepair](https://valheim.thunderstore.io/package/Azumatt/AzuAreaRepair)
@@ -56,6 +54,8 @@ All mod in this pack in order
 
 [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot)
 
+[EpicLoot ItemDrawers Visual Patch](https://valheim.thunderstore.io/package/xkyouchoux/EpicLoot_ItemDrawers_Visual_Patch/1.0.0)
+
 [CreatureLevelAndLootControl](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl)
 
 [BetterLanterns](https://valheim.thunderstore.io/package/OdinPlus/BetterLanterns/1.0.3)
@@ -67,6 +67,16 @@ All mod in this pack in order
 [OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect)
 
 [BetterArchery](https://valheim.thunderstore.io/package/ishid4/BetterArchery)
+
+# Changelog 1.1.3
+
+Removed BiomeObserver
+
+Change Configs for Toggle Movement Mod
+
+Added EpicLoot ItemDrawers Visual Patch
+
+
 
 # Chnagelog 1.1.2
 
