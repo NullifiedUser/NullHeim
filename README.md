@@ -68,6 +68,10 @@ All mod in this pack in order
 
 [BetterArchery](https://valheim.thunderstore.io/package/ishid4/BetterArchery)
 
+#Changelog 1.1.5
+
+Updated Jotunn
+
 #Changelog 1.1.4
 
 Changed Keybind for Config Manager from F1 to F12

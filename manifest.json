@@ -1,6 +1,6 @@
 {
   "name": "NullHeim_Modpack",
-  "version_number": "1.1.4",
+  "version_number": "1.1.5",
   "website_url": "https://github.com/NullifiedUser/NullHeim",
   "description": "Nullheim contains handpicked mods that add that extra QOL, mods have also been customized to provide extra balance.",
   "dependencies": [
@@ -34,7 +34,7 @@
     "Smoothbrain-ConfigWatcher-1.0.1",
     "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
     "ValheimModding-HookGenPatcher-0.0.4",
-    "ValheimModding-Jotunn-2.11.6",
+    "ValheimModding-Jotunn-2.11.7",
     "denikson-BepInExPack_Valheim-5.4.2105"
   ]
   
