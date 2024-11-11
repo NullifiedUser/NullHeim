@@ -1,0 +1,31 @@
+{
+  "TargetFile": "loottables.json",
+  "Author": "Majestic",
+  "RequireAll": true,
+  "Patches": [
+    {
+	  "Path": "$.LootTables",
+      "Action": "AppendAll",
+      "Value": [
+	{
+	  "Object": "Sheep_TW", "RefObject": "Tier0Mob"
+	},
+	{
+	  "Object": "GreydwarfMage_TW", "RefObject": "Tier1Mob"
+	},
+	{
+	  "Object": "SkeletonMage_TW", "RefObject": "Tier3Mob"
+	},
+	{
+	  "Object": "FenringMage_TW","RefObject": "Tier4Mob"
+	},
+	{
+	  "Object": "GoblinMage_TW", "RefObject": "Tier5Mob"
+	},
+	{
+	  "Object": "CorruptedDvergerMage_TW", "RefObject": "Tier6Mob"
+	}
+   ]
+  }
+ ]
+}

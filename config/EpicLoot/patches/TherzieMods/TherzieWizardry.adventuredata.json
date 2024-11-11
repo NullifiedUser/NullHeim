@@ -1,0 +1,72 @@
+{
+  "TargetFile": "adventuredata.json",
+  "Author": "Majestic",
+  "RequireAll": true,
+  "Patches": [
+	{
+	  "Path": "$.Gamble.GambleCosts", 
+	  "Action": "AppendAll",
+	  "Value": [
+	{ "Item": "StaffBlackforest_TW", "CoinsCost": 500},
+	{ "Item": "RingBlackForest_TW", "CoinsCost": 500},
+	{ "Item": "HelmetSpellslinger_BlackForest_TW", "CoinsCost": 500},
+	{ "Item": "ArmorSpellSlingerChest_BlackForest_TW", "CoinsCost": 500},
+	{ "Item": "ArmorSpellslingerLegs_BlackForest_TW", "CoinsCost": 500},
+	{ "Item": "CapeSpellslinger_Blackforest_TW", "CoinsCost": 500},
+
+	{ "Item": "StaffSwamp_TW", "CoinsCost": 700},
+	{ "Item": "StaffSurtling_TW", "CoinsCost": 700},
+	{ "Item": "RingSwamp_TW", "CoinsCost": 700},
+	{ "Item": "ArmorSpellSlingerChest_Swamp_TW", "CoinsCost": 700},
+	{ "Item": "ArmorSpellslingerLegs_Swamp_TW", "CoinsCost": 700},
+	{ "Item": "CapeSpellslinger_Swamp_TW", "CoinsCost": 700},
+
+	{ "Item": "StaffMountain_TW", "CoinsCost": 900},
+	{ "Item": "RingMountain_TW", "CoinsCost": 900},
+	{ "Item": "HelmetSpellslinger_Mountain_TW", "CoinsCost": 900},
+	{ "Item": "ArmorSpellSlingerChest_Mountain_TW", "CoinsCost": 900},
+	{ "Item": "ArmorSpellslingerLegs_Mountain_TW", "CoinsCost": 900},
+	{ "Item": "CapeSpellslinger_Mountain_TW", "CoinsCost": 900},
+
+	{ "Item": "StaffPlains_TW", "CoinsCost": 1100},
+	{ "Item": "StaffGolem_TW", "CoinsCost": 1100},
+	{ "Item": "RingPlains_TW", "CoinsCost": 1100},
+	{ "Item": "HelmetSpellslinger_Plains_TW", "CoinsCost": 1100},
+	{ "Item": "ArmorSpellSlingerChest_Plains_TW", "CoinsCost": 1100},
+	{ "Item": "ArmorSpellslingerLegs_Plains_TW", "CoinsCost": 1100},
+	{ "Item": "CapeSpellslinger_Plains_TW", "CoinsCost": 1100},
+		
+	{ "Item": "StaffMistlands_TW", "CoinsCost": 900},
+	{ "Item": "RingMistlands_TW", "CoinsCost": 900},
+	{ "Item": "HelmetSpellslinger_Mistlands_TW", "CoinsCost": 900},
+	{ "Item": "ArmorSpellSlingerChest_Mistlands_TW", "CoinsCost": 900},
+	{ "Item": "ArmorSpellslingerLegs_Mistlands_TW", "CoinsCost": 900},
+	{ "Item": "CapeSpellslinger_Mistlands_TW", "CoinsCost": 900}
+	]
+	},
+	
+	{
+	"Path": "$.Bounties.Targets",
+	"Action": "AppendAll",
+	"Value": [
+	{ "Biome": "Meadows",		"TargetID": "Sheep_TW",					"RewardGold": 0, "RewardIron": 0, "RewardCoins": 25  },
+	{ "Biome": "Meadows",		"TargetID": "Sheep_TW",					"RewardGold": 0, "RewardIron": 1, "RewardCoins": 30  },
+		
+	{ "Biome": "BlackForest", 	"TargetID": "GreydwarfMage_TW",			"RewardGold": 0, "RewardIron": 2, "RewardCoins": 80  },
+	{ "Biome": "BlackForest", 	"TargetID": "GreydwarfMage_TW",			"RewardGold": 1, "RewardIron": 1, "RewardCoins": 90  },
+
+	{ "Biome": "Swamp",       	"TargetID": "SkeletonMage_TW",			"RewardGold": 0, "RewardIron": 3, "RewardCoins": 170  },
+	{ "Biome": "Swamp",       	"TargetID": "SkeletonMage_TW",    		"RewardGold": 1, "RewardIron": 2, "RewardCoins": 180  },
+
+	{ "Biome": "Mountain",		"TargetID": "FenringMage_TW",    		"RewardGold": 0, "RewardIron": 5, "RewardCoins": 300  },
+	{ "Biome": "Mountain",		"TargetID": "FenringMage_TW",    		"RewardGold": 5, "RewardIron": 4, "RewardCoins": 350  },
+
+	{ "Biome": "Plains",		"TargetID": "GoblinMage_TW",     		"RewardGold": 0, "RewardIron": 10,"RewardCoins": 400  },
+	{ "Biome": "Plains",		"TargetID": "GoblinMage_TW", 			"RewardGold": 5, "RewardIron": 8, "RewardCoins": 425  },
+
+	{ "Biome": "Mistlands", 	"TargetID": "CorruptedDvergerMage_TW",	"RewardGold": 0, "RewardIron": 9, "RewardCoins": 600 },
+	{ "Biome": "Mistlands", 	"TargetID": "CorruptedDvergerMage_TW", 	"RewardGold": 6, "RewardIron": 6, "RewardCoins": 650 }
+   ]
+  }
+ ]
+}

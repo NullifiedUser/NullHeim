@@ -1,0 +1,4 @@
+﻿PrintComment: ThisGoesHere is cleaning up files
+DeleteFile:
+- config\EpicLoot\patches\TherzieMods\TherzieTrophies.enchantcosts.json
+- config\EpicLoot\patches\TherzieMods\TherzieBounties.adventuredata.json

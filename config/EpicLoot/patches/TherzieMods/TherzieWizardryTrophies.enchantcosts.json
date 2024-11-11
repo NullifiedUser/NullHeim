@@ -1,0 +1,18 @@
+{
+  "TargetFile": "enchantcosts.json", 
+  "Author": "Majestic",
+  "RequireAll": true, 
+  "Patches": [
+	{
+	"Path": "$.DisenchantProducts",
+	"Action": "AppendAll", 
+	"Value": [
+	{
+	  "ItemTypes" : [ "Trophy" ],
+	  "ItemNames" : [ "$trophy_sheep_TW" ],
+	  "Products" : [ { "Item": "ShardMagic", "Amount": 1 } ]
+	}
+   ]
+  }
+ ]
+}
