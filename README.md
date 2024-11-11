@@ -1,78 +1,176 @@
 # NullHeim
-## Nullheim contains handpicked mods that add that extra QOL also mods have also been customized to provide extra balance.
-As mods get update for mistland more will get added over time
+## Nullheim contains handpicked mods that add that extra QOL also mods have been customized to provide extra balance.
+## Please Check the github for keybind as some have been changed or as a help guide instead of guessing what button to push
 
-Info on the keybinds can be found [here](https://github.com/NullifiedUser/NullHeim/wiki) 
+### Info on the keybinds can be found [here](https://github.com/NullifiedUser/NullHeim/wiki) 
+##
+As mods get update for Bog Wtich more will get added over time
+
 
 All mod in this pack in order
 
+[Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn)
+
+[Official BepInEx ConfigurationManager](https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager)
+
+[PerfectPlacement](https://thunderstore.io/c/valheim/p/Azumatt/PerfectPlacement)
+
+[BetterArchery](https://thunderstore.io/c/valheim/p/ishid4/BetterArchery)
+
+[PressurePlate](https://thunderstore.io/c/valheim/p/MSchmoecker/PressurePlate)
+
+[Pinnacle](https://thunderstore.io/c/valheim/p/ComfyMods/Pinnacle)
+
+[PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily)
+
+[PlantEverything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything)
+
+[EquipmentAndQuickSlots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots)
+
+[UseEquipmentInWater](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots)
+
+[SpeedyPaths](https://thunderstore.io/c/valheim/p/Nextek/SpeedyPaths)
+
+[WardIsLove](https://thunderstore.io/c/valheim/p/Azumatt/WardIsLove)
+
+[SmartSkills](https://thunderstore.io/c/valheim/p/Smoothbrain/SmartSkills)
+
+[SailingSpeed](https://thunderstore.io/c/valheim/p/Smoothbrain/SailingSpeed)
+
+[Sailing](https://thunderstore.io/c/valheim/p/Smoothbrain/Sailing)
+
+[Lumberjacking](https://thunderstore.io/c/valheim/p/Smoothbrain/Lumberjacking)
+
+[Foraging](https://thunderstore.io/c/valheim/p/Smoothbrain/Foraging)
+
+[Building](https://thunderstore.io/c/valheim/p/Smoothbrain/Building)
+
+[Mining](https://thunderstore.io/c/valheim/p/Smoothbrain/Mining)
+
+[Blacksmithing](https://thunderstore.io/c/valheim/p/Smoothbrain/Blacksmithing)
+
+[ConversionSizeAndSpeed](https://thunderstore.io/c/valheim/p/Smoothbrain/ConversionSizeAndSpeed)
+
+[Groups](https://thunderstore.io/c/valheim/p/Smoothbrain/Groups)
+
+[PackHorse](https://thunderstore.io/c/valheim/p/Smoothbrain/PackHorse)
+
+[Farming](https://thunderstore.io/c/valheim/p/Smoothbrain/Farming)
+
+[AzuAutoStore](https://thunderstore.io/c/valheim/p/Azumatt/AzuAutoStore)
+
+[AzuCraftyBoxes](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes)
+
+[AzuAreaRepair](https://thunderstore.io/c/valheim/p/Azumatt/AzuAreaRepair)
+
+[AzuWorkBenchTweaks](https://thunderstore.io/c/valheim/p/Azumatt/AzuWorkbenchTweaks)
+
+[AzuMiscPatches](https://thunderstore.io/c/valheim/p/Azumatt/AzuMiscPatches/)
+
+[Therzie  Armory](https://thunderstore.io/c/valheim/p/Therzie/Armory)
+
+[Therzie  Wizardry](https://thunderstore.io/c/valheim/p/Therzie/Wizardry)
+
+[Therzie  Warfare](https://thunderstore.io/c/valheim/p/Therzie/Warfare)
+
+[Therzie  Monstrum](https://thunderstore.io/c/valheim/p/Therzie/Monstrum)
+
+[EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot)
+
+[This Goes Here](https://thunderstore.io/c/valheim/p/ASharpPen/This_Goes_Here)
+
+[Therzie EpicLoot Patch](https://thunderstore.io/c/valheim/p/JewelHeim/EpicLoot_Therzie)
+
+[CreatureLevelAndLootControl](https://thunderstore.io/c/valheim/p/Smoothbrain/CreatureLevelAndLootControl)
+
+
+
+# Changelog 2.0.0
+
+Added
+
+[Therzie  Armory](https://thunderstore.io/c/valheim/p/Therzie/Armory)
+
+[Therzie  Wizardry](https://thunderstore.io/c/valheim/p/Therzie/Wizardry)
+
+[Therzie  Warfare](https://thunderstore.io/c/valheim/p/Therzie/Warfare)
+
+[Therzie  Monstrum](https://thunderstore.io/c/valheim/p/Therzie/Monstrum)
+
+For Epic loot to work with Therzie Mods.
+
+[Therzie EpicLoot Patch](https://thunderstore.io/c/valheim/p/JewelHeim/EpicLoot_Therzie)
+
+[This Goes Here](https://thunderstore.io/c/valheim/p/ASharpPen/This_Goes_Here)
+
+[SmartSkills](https://thunderstore.io/c/valheim/p/Smoothbrain/SmartSkills)
+
+[SailingSpeed](https://thunderstore.io/c/valheim/p/Smoothbrain/SailingSpeed)
+
+[Sailing](https://thunderstore.io/c/valheim/p/Smoothbrain/Sailing)
+
+[Lumberjacking](https://thunderstore.io/c/valheim/p/Smoothbrain/Lumberjacking)
+
+[Foraging](https://thunderstore.io/c/valheim/p/Smoothbrain/Foraging)
+
+[Building](https://thunderstore.io/c/valheim/p/Smoothbrain/Building)
+
+[Mining](https://thunderstore.io/c/valheim/p/Smoothbrain/Mining)
+
+[Blacksmithing](https://thunderstore.io/c/valheim/p/Smoothbrain/Blacksmithing)
+
+[ConversionSizeAndSpeed](https://thunderstore.io/c/valheim/p/Smoothbrain/ConversionSizeAndSpeed)
+
+[Groups](https://thunderstore.io/c/valheim/p/Smoothbrain/Groups)
+
+[PackHorse](https://thunderstore.io/c/valheim/p/Smoothbrain/PackHorse)
+
+[Farming](https://thunderstore.io/c/valheim/p/Smoothbrain/Farming)
+
+
+Updated
+[Official BepInEx ConfigurationManager](https://valheim.thunderstore.io/package/Azumatt/Official_BepInEx_ConfigurationManager)
+[BetterArchery](https://valheim.thunderstore.io/package/ishid4/BetterArchery),
+[PressurePlate](https://valheim.thunderstore.io/package/MSchmoecker/PressurePlate),
+[CreatureLevelAndLootControl](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl),
+[EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot),
+[PlantEverything](https://valheim.thunderstore.io/package/Advize/PlantEverything),
+[PlantEasily](https://valheim.thunderstore.io/package/Advize/PlantEasily),
+[Pinnacle](https://valheim.thunderstore.io/package/ComfyMods/Pinnacle),
+[EquipmentAndQuickSlots](https://valheim.thunderstore.io/package/RandyKnapp/EquipmentAndQuickSlots),
+[SpeedyPaths](https://valheim.thunderstore.io/package/Nextek/SpeedyPaths),
+[UseEquipmentInWater](https://valheim.thunderstore.io/package/LVH-IT/UseEquipmentInWater),
+[PerfectPlacement](https://valheim.thunderstore.io/package/Azumatt/PerfectPlacement),
+[WardIsLove](https://valheim.thunderstore.io/package/Azumatt/WardIsLove),
+[AzuAutoStore](https://valheim.thunderstore.io/package/Azumatt/AzuAutoStore),
+[AzuCraftyBoxes](https://valheim.thunderstore.io/package/Azumatt/AzuCraftyBoxes),
+[AzuAreaRepair](https://valheim.thunderstore.io/package/Azumatt/AzuAreaRepair),
+[AzuWorkBenchTweaks](https://valheim.thunderstore.io/package/Azumatt/AzuWorkbenchTweaks),
+[AzuMiscPatches](https://valheim.thunderstore.io/package/Azumatt/AzuMiscPatches)
 [Jotunn](https://valheim.thunderstore.io/package/ValheimModding/Jotunn)
 
+
+Removed
+[OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect),
+[BetterLadders](https://valheim.thunderstore.io/package/Amar1729/BetterLadders),
+[BetterLanterns](https://valheim.thunderstore.io/package/OdinPlus/BetterLanterns),
+[ItemDrawers](https://valheim.thunderstore.io/package/makail/ItemDrawers),
+[EpicLoot ItemDrawers Visual Patch](https://valheim.thunderstore.io/package/xkyouchoux/EpicLoot_ItemDrawers_Visual_Patch),
+[ToggleMovementMod](https://valheim.thunderstore.io/package/GetOffMyLawn/ToggleMovementMod),
+[Auga](https://valheim.thunderstore.io/package/RandyKnapp/Auga),
+[RoundStoneScrollFirstPerson](https://valheim.thunderstore.io/package/RoundStone/RoundStoneScrollFirstPerson),
+[PlanBuild](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild),
+[Sleepover](https://valheim.thunderstore.io/package/kinghfb/Sleepover),
+[ConfigWatcher](https://valheim.thunderstore.io/package/Smoothbrain/ConfigWatcher),
 [HookGenPatcher](https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher)
 
-[Official BepInEx ConfigurationManager](https://valheim.thunderstore.io/package/Azumatt/Official_BepInEx_ConfigurationManager)
 
-[ConfigWatcher](https://valheim.thunderstore.io/package/Smoothbrain/ConfigWatcher/1.0.1)
-
-[PerfectPlacement](https://valheim.thunderstore.io/package/Azumatt/PerfectPlacement)
-
-[AzuWorkBenchTweaks](https://valheim.thunderstore.io/package/Azumatt/AzuWorkbenchTweaks)
-
-[AzuAreaRepair](https://valheim.thunderstore.io/package/Azumatt/AzuAreaRepair)
-
-[WardIsLove](https://valheim.thunderstore.io/package/Azumatt/WardIsLove)
-
-[AzuCraftyBoxes](https://valheim.thunderstore.io/package/Azumatt/AzuCraftyBoxes)
-
-[AzuMiscPatches](https://valheim.thunderstore.io/package/Azumatt/AzuMiscPatches)
-
-[AzuAutoStore](https://valheim.thunderstore.io/package/Azumatt/AzuAutoStore)
-
-[Sleepover](https://valheim.thunderstore.io/package/kinghfb/Sleepover)
-
-[UseEquipmentInWater](https://valheim.thunderstore.io/package/LVH-IT/UseEquipmentInWater)
-
-[SpeedyPaths](https://valheim.thunderstore.io/package/Nextek/SpeedyPaths)
-
-[PlanBuild](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild)
-
-[RoundStoneScrollFirstPerson](https://valheim.thunderstore.io/package/RoundStone/RoundStoneScrollFirstPerson)
-
-[EquipmentAndQuickSlots](https://valheim.thunderstore.io/package/RandyKnapp/EquipmentAndQuickSlots)
-
-[Auga](https://valheim.thunderstore.io/package/RandyKnapp/Auga)
-
-[PlantEverything](https://valheim.thunderstore.io/package/Advize/PlantEverything)
-
-[PlantEasily](https://valheim.thunderstore.io/package/Advize/PlantEasily)
-
-[Pinnacle](https://valheim.thunderstore.io/package/ComfyMods/Pinnacle)
-
-[ToggleMovementMod](https://valheim.thunderstore.io/package/GetOffMyLawn/ToggleMovementMod)
-
-[ItemDrawers](https://valheim.thunderstore.io/package/makail/ItemDrawers)
-
-[EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot)
-
-[EpicLoot ItemDrawers Visual Patch](https://valheim.thunderstore.io/package/xkyouchoux/EpicLoot_ItemDrawers_Visual_Patch/1.0.0)
-
-[CreatureLevelAndLootControl](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl)
-
-[BetterLanterns](https://valheim.thunderstore.io/package/OdinPlus/BetterLanterns/1.0.3)
-
-[PressurePlate](https://valheim.thunderstore.io/package/MSchmoecker/PressurePlate)
-
-[BetterLadders](https://valheim.thunderstore.io/package/Amar1729/BetterLadders)
-
-[OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect)
-
-[BetterArchery](https://valheim.thunderstore.io/package/ishid4/BetterArchery)
-
-#Changelog 1.1.5
+# Changelog 1.1.5
 
 Updated Jotunn
 
-#Changelog 1.1.4
+
+# Changelog 1.1.4
 
 Changed Keybind for Config Manager from F1 to F12
 
